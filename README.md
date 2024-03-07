@@ -1,4 +1,4 @@
-nextjs tutorial on using the following:
+Nextjs tutorial on using the following:
 
 Next.js as the React framework
 Next.js API Routes for server-side API routes as the backend
